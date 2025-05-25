@@ -18,16 +18,16 @@ coroutine.resume(
                                 if v.Name ~= plr.Name and v.Character then
                                     v.Character.RightUpperLeg.CanCollide = false
                                     v.Character.RightUpperLeg.Transparency = 75
-                                    v.Character.RightUpperLeg.Size = Vector3.new(100, 100, 100)
+                                    v.Character.RightUpperLeg.Size = Vector3.new(43, 43, 43)
                                     v.Character.LeftUpperLeg.CanCollide = false
                                     v.Character.LeftUpperLeg.Transparency = 75
-                                    v.Character.LeftUpperLeg.Size = Vector3.new(100, 100, 100)
+                                    v.Character.LeftUpperLeg.Size = Vector3.new(43, 43, 43)
                                     v.Character.HeadHB.CanCollide = false
                                     v.Character.HeadHB.Transparency = 75
-                                    v.Character.HeadHB.Size = Vector3.new(100, 100, 100)
+                                    v.Character.HeadHB.Size = Vector3.new(43, 43, 43)
                                     v.Character.HumanoidRootPart.CanCollide = false
                                     v.Character.HumanoidRootPart.Transparency = 75
-                                    v.Character.HumanoidRootPart.Size = Vector3.new(100, 100, 100)
+                                    v.Character.HumanoidRootPart.Size = Vector3.new(43, 43, 43)
                                 end
                             end
                         end
